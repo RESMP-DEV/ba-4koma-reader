@@ -1,0 +1,1779 @@
+{
+ "title": "Blue Archive — Official 4-koma Season 2",
+ "description": "Official Blue Archive 4-koma second series (公式4コマ 2, from 2023-08), Japanese. Chapter keys: 0 = ０-A, 0.5 = ０-B, then 1–177. Images hotlinked from the official CDN.",
+ "artist": "donmin_h (4-koma) · Nexon Games",
+ "author": "Nexon Games / Yostar",
+ "cover": "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647710132418822.jpg",
+ "chapters": {
+  "0": {
+   "title": "EP 0-A",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647710132418822.jpg"
+    ]
+   }
+  },
+  "0.5": {
+   "title": "EP 0-B",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169321034016417323.png"
+    ]
+   }
+  },
+  "1": {
+   "title": "EP 1",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647715871610895.jpg"
+    ]
+   }
+  },
+  "2": {
+   "title": "EP 2",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647721749018264.jpg"
+    ]
+   }
+  },
+  "3": {
+   "title": "EP 3",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647732322114428.jpg"
+    ]
+   }
+  },
+  "4": {
+   "title": "EP 4",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647752544015336.jpg"
+    ]
+   }
+  },
+  "5": {
+   "title": "EP 5",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647757594616263.jpg"
+    ]
+   }
+  },
+  "6": {
+   "title": "EP 6",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647769696911178.jpg"
+    ]
+   }
+  },
+  "7": {
+   "title": "EP 7",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169322256790418449.jpg"
+    ]
+   }
+  },
+  "8": {
+   "title": "EP 8",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647799513012412.jpg"
+    ]
+   }
+  },
+  "9": {
+   "title": "EP 9",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647802860617646.jpg"
+    ]
+   }
+  },
+  "10": {
+   "title": "EP 10",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647822922218116.jpg"
+    ]
+   }
+  },
+  "11": {
+   "title": "EP 11",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647832807210895.jpg"
+    ]
+   }
+  },
+  "12": {
+   "title": "EP 12",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647850094518197.jpg"
+    ]
+   }
+  },
+  "13": {
+   "title": "EP 13",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647854475912646.jpg"
+    ]
+   }
+  },
+  "14": {
+   "title": "EP 14",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647858009012714.jpg"
+    ]
+   }
+  },
+  "15": {
+   "title": "EP 15",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647865405314376.jpg"
+    ]
+   }
+  },
+  "16": {
+   "title": "EP 16",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647869287913944.jpg"
+    ]
+   }
+  },
+  "17": {
+   "title": "EP 17",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647873694716481.jpg"
+    ]
+   }
+  },
+  "18": {
+   "title": "EP 18",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647877691414982.jpg"
+    ]
+   }
+  },
+  "19": {
+   "title": "EP 19",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647913165718470.jpg"
+    ]
+   }
+  },
+  "20": {
+   "title": "EP 20",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647922414913778.jpg"
+    ]
+   }
+  },
+  "21": {
+   "title": "EP 21",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647936434614890.jpg"
+    ]
+   }
+  },
+  "22": {
+   "title": "EP 22",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647940483216986.jpg"
+    ]
+   }
+  },
+  "23": {
+   "title": "EP 23",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647944024717313.jpg"
+    ]
+   }
+  },
+  "24": {
+   "title": "EP 24",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169647946905811603.jpg"
+    ]
+   }
+  },
+  "25": {
+   "title": "EP 25",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169648454035516418.jpg"
+    ]
+   }
+  },
+  "26": {
+   "title": "EP 26",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169708288848315638.jpg"
+    ]
+   }
+  },
+  "27": {
+   "title": "EP 27",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169768581290815005.png"
+    ]
+   }
+  },
+  "28": {
+   "title": "EP 28",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169864392608816166.jpg"
+    ]
+   }
+  },
+  "29": {
+   "title": "EP 29",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169952036883614377.png"
+    ]
+   }
+  },
+  "30": {
+   "title": "EP 30",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/169952695711512657.jpg"
+    ]
+   }
+  },
+  "31": {
+   "title": "EP 31",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/170018644717917423.jpg"
+    ]
+   }
+  },
+  "32": {
+   "title": "EP 32",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/170125147568812148.png"
+    ]
+   }
+  },
+  "33": {
+   "title": "EP 33",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/170166682193211954.jpg"
+    ]
+   }
+  },
+  "34": {
+   "title": "EP 34",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/170191847407315886.png"
+    ]
+   }
+  },
+  "35": {
+   "title": "EP 35",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/170312970796910652.png"
+    ]
+   }
+  },
+  "36": {
+   "title": "EP 36",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/170312977484215562.png"
+    ]
+   }
+  },
+  "37": {
+   "title": "EP 37",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/170381658139710836.png"
+    ]
+   }
+  },
+  "38": {
+   "title": "EP 38",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/170433741787617657.jpg"
+    ]
+   }
+  },
+  "39": {
+   "title": "EP 39",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/170494290978613019.jpg"
+    ]
+   }
+  },
+  "40": {
+   "title": "EP 40",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/170598047006712632.jpg"
+    ]
+   }
+  },
+  "41": {
+   "title": "EP 41",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/170617394534813888.jpg"
+    ]
+   }
+  },
+  "42": {
+   "title": "EP 42",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/170711126948318590.jpg"
+    ]
+   }
+  },
+  "43": {
+   "title": "EP 43",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/170796766741812946.png"
+    ]
+   }
+  },
+  "44": {
+   "title": "EP 44",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/170796770585515632.png"
+    ]
+   }
+  },
+  "45": {
+   "title": "EP 45",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/170917514983615566.png"
+    ]
+   }
+  },
+  "46": {
+   "title": "EP 46",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/170917522089315362.png"
+    ]
+   }
+  },
+  "47": {
+   "title": "EP 47",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/171280869413817283.jpg"
+    ]
+   }
+  },
+  "48": {
+   "title": "EP 48",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/171107299484412801.png"
+    ]
+   }
+  },
+  "49": {
+   "title": "EP 49",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/171107304889217546.png"
+    ]
+   }
+  },
+  "50": {
+   "title": "EP 50",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/171170719837118764.png"
+    ]
+   }
+  },
+  "51": {
+   "title": "EP 51",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/171280460484811139.png"
+    ]
+   }
+  },
+  "52": {
+   "title": "EP 52",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/171280844744217556.png"
+    ]
+   }
+  },
+  "53": {
+   "title": "EP 53",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/171344244758415749.png"
+    ]
+   }
+  },
+  "54": {
+   "title": "EP 54",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/171574861447917384.png"
+    ]
+   }
+  },
+  "55": {
+   "title": "EP 55",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/171574867435813382.jpg"
+    ]
+   }
+  },
+  "56": {
+   "title": "EP 56",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/171574883005116919.jpg"
+    ]
+   }
+  },
+  "57": {
+   "title": "EP 57",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/171644380745212454.png"
+    ]
+   }
+  },
+  "58": {
+   "title": "EP 58",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/171705521794716691.jpg"
+    ]
+   }
+  },
+  "59": {
+   "title": "EP 59",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/171868636529315085.png"
+    ]
+   }
+  },
+  "60": {
+   "title": "EP 60",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/171868655572410368.jpg"
+    ]
+   }
+  },
+  "61": {
+   "title": "EP 61",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/171946132321916262.jpg"
+    ]
+   }
+  },
+  "62": {
+   "title": "EP 62",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/171946136884013232.jpg"
+    ]
+   }
+  },
+  "63": {
+   "title": "EP 63",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/172490696381817665.png"
+    ]
+   }
+  },
+  "64": {
+   "title": "EP 64",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/172490711776414901.jpg"
+    ]
+   }
+  },
+  "65": {
+   "title": "EP 65",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/172490716430715007.png"
+    ]
+   }
+  },
+  "66": {
+   "title": "EP 66",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/172490721846012820.png"
+    ]
+   }
+  },
+  "67": {
+   "title": "EP 67",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/172490727315514130.jpg"
+    ]
+   }
+  },
+  "68": {
+   "title": "EP 68",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/172490734293214744.png"
+    ]
+   }
+  },
+  "69": {
+   "title": "EP 69",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/172490739407511391.png"
+    ]
+   }
+  },
+  "70": {
+   "title": "EP 70",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/172490745923712691.jpg"
+    ]
+   }
+  },
+  "71": {
+   "title": "EP 71",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/172490756976517929.png"
+    ]
+   }
+  },
+  "72": {
+   "title": "EP 72",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/172550798565112813.png"
+    ]
+   }
+  },
+  "73": {
+   "title": "EP 73",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/172611139452011357.jpg"
+    ]
+   }
+  },
+  "74": {
+   "title": "EP 74",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/172671519541714155.png"
+    ]
+   }
+  },
+  "75": {
+   "title": "EP 75",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/172732567727913669.jpg"
+    ]
+   }
+  },
+  "76": {
+   "title": "EP 76",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/172792690391810713.png"
+    ]
+   }
+  },
+  "77": {
+   "title": "EP 77",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/172852936726917867.jpg"
+    ]
+   }
+  },
+  "78": {
+   "title": "EP 78",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/172913811610917537.jpg"
+    ]
+   }
+  },
+  "79": {
+   "title": "EP 79",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/172973982061010513.jpg"
+    ]
+   }
+  },
+  "80": {
+   "title": "EP 80",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/173035387026213481.jpg"
+    ]
+   }
+  },
+  "81": {
+   "title": "EP 81",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/173155752178418825.jpg"
+    ]
+   }
+  },
+  "82": {
+   "title": "EP 82",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/173155758671516745.jpg"
+    ]
+   }
+  },
+  "83": {
+   "title": "EP 83",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/173337018849516675.png"
+    ]
+   }
+  },
+  "84": {
+   "title": "EP 84",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/173337024474212090.png"
+    ]
+   }
+  },
+  "85": {
+   "title": "EP 85",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/173337032842318282.jpg"
+    ]
+   }
+  },
+  "86": {
+   "title": "EP 86",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/173518825794912295.png"
+    ]
+   }
+  },
+  "87": {
+   "title": "EP 87",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/173518830577910509.png"
+    ]
+   }
+  },
+  "88": {
+   "title": "EP 88",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/173518835018210719.png"
+    ]
+   }
+  },
+  "89": {
+   "title": "EP 89",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/173699337493912610.png"
+    ]
+   }
+  },
+  "90": {
+   "title": "EP 90",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/173699341890511703.png"
+    ]
+   }
+  },
+  "91": {
+   "title": "EP 91",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/173699347473813842.png"
+    ]
+   }
+  },
+  "92": {
+   "title": "EP 92",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/173769623643712876.png"
+    ]
+   }
+  },
+  "93": {
+   "title": "EP 93",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/173829883259518415.jpg"
+    ]
+   }
+  },
+  "94": {
+   "title": "EP 94",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/174063367969015963.png"
+    ]
+   }
+  },
+  "95": {
+   "title": "EP 95",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/174063372106913208.png"
+    ]
+   }
+  },
+  "96": {
+   "title": "EP 96",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/174063379420314769.jpg"
+    ]
+   }
+  },
+  "97": {
+   "title": "EP 97",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/174063383407517702.png"
+    ]
+   }
+  },
+  "98": {
+   "title": "EP 98",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/174295850077916677.png"
+    ]
+   }
+  },
+  "99": {
+   "title": "EP 99",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/174295854775818784.png"
+    ]
+   }
+  },
+  "100": {
+   "title": "EP 100",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/174295865835318191.png"
+    ]
+   }
+  },
+  "101": {
+   "title": "EP 101",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/174295873972710582.jpg"
+    ]
+   }
+  },
+  "102": {
+   "title": "EP 102",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/174471725799717762.png"
+    ]
+   }
+  },
+  "103": {
+   "title": "EP 103",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/174471734075310079.jpg"
+    ]
+   }
+  },
+  "104": {
+   "title": "EP 104",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/174486129761315378.png"
+    ]
+   }
+  },
+  "105": {
+   "title": "EP 105",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/174676492944211941.png"
+    ]
+   }
+  },
+  "106": {
+   "title": "EP 106",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/174676502199114426.png"
+    ]
+   }
+  },
+  "107": {
+   "title": "EP 107",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/174676511004917005.jpg"
+    ]
+   }
+  },
+  "108": {
+   "title": "EP 108",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/174779632063416685.png"
+    ]
+   }
+  },
+  "109": {
+   "title": "EP 109",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/174920279054711296.jpg"
+    ]
+   }
+  },
+  "110": {
+   "title": "EP 110",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/174920285235710099.jpg"
+    ]
+   }
+  },
+  "111": {
+   "title": "EP 111",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/174920292088110534.jpg"
+    ]
+   }
+  },
+  "112": {
+   "title": "EP 112",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/175015065269014145.jpg"
+    ]
+   }
+  },
+  "113": {
+   "title": "EP 113",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/175032072425411630.jpg"
+    ]
+   }
+  },
+  "114": {
+   "title": "EP 114",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/175091446758218628.jpg"
+    ]
+   }
+  },
+  "115": {
+   "title": "EP 115",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/175267097224412106.jpg"
+    ]
+   }
+  },
+  "116": {
+   "title": "EP 116",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/175267104050811213.jpg"
+    ]
+   }
+  },
+  "117": {
+   "title": "EP 117",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/175273053849915941.png"
+    ]
+   }
+  },
+  "118": {
+   "title": "EP 118",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/175453742440611363.png"
+    ]
+   }
+  },
+  "119": {
+   "title": "EP 119",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/175453750328910026.png"
+    ]
+   }
+  },
+  "120": {
+   "title": "EP 120",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/175453757934016048.jpg"
+    ]
+   }
+  },
+  "121": {
+   "title": "EP 121",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/175583945976814212.jpg"
+    ]
+   }
+  },
+  "122": {
+   "title": "EP 122",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/175583951324117631.jpg"
+    ]
+   }
+  },
+  "123": {
+   "title": "EP 123",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/175765403705012271.png"
+    ]
+   }
+  },
+  "124": {
+   "title": "EP 124",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/175765413239416524.jpg"
+    ]
+   }
+  },
+  "125": {
+   "title": "EP 125",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/175765417298018463.png"
+    ]
+   }
+  },
+  "126": {
+   "title": "EP 126",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/175886954806610873.png"
+    ]
+   }
+  },
+  "127": {
+   "title": "EP 127",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/175886962398312286.png"
+    ]
+   }
+  },
+  "128": {
+   "title": "EP 128",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/176007271954711230.jpg"
+    ]
+   }
+  },
+  "129": {
+   "title": "EP 129",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/176007276180114982.png"
+    ]
+   }
+  },
+  "130": {
+   "title": "EP 130",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/176068388526416088.png"
+    ]
+   }
+  },
+  "131": {
+   "title": "EP 131",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/176128994581412494.png"
+    ]
+   }
+  },
+  "132": {
+   "title": "EP 132",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/176423030078415129.png"
+    ]
+   }
+  },
+  "133": {
+   "title": "EP 133",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/176423033681516731.png"
+    ]
+   }
+  },
+  "134": {
+   "title": "EP 134",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/176423044722911720.jpg"
+    ]
+   }
+  },
+  "135": {
+   "title": "EP 135",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/176423056273613181.png"
+    ]
+   }
+  },
+  "136": {
+   "title": "EP 136",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/176423060399811098.png"
+    ]
+   }
+  },
+  "137": {
+   "title": "EP 137",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/176544809180214176.png"
+    ]
+   }
+  },
+  "138": {
+   "title": "EP 138",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/176544813645917402.png"
+    ]
+   }
+  },
+  "139": {
+   "title": "EP 139",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/176673907957617892.png"
+    ]
+   }
+  },
+  "140": {
+   "title": "EP 140",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/176673917099512669.jpg"
+    ]
+   }
+  },
+  "141": {
+   "title": "EP 141",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/176940306806514927.jpg"
+    ]
+   }
+  },
+  "142": {
+   "title": "EP 142",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/176940312801116405.jpg"
+    ]
+   }
+  },
+  "143": {
+   "title": "EP 143",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/176940316862213841.jpg"
+    ]
+   }
+  },
+  "144": {
+   "title": "EP 144",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/176940322556713286.jpg"
+    ]
+   }
+  },
+  "145": {
+   "title": "EP 145",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/177097530524711833.jpg"
+    ]
+   }
+  },
+  "146": {
+   "title": "EP 146",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/177097534540114359.png"
+    ]
+   }
+  },
+  "147": {
+   "title": "EP 147",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/177097540808810633.png"
+    ]
+   }
+  },
+  "148": {
+   "title": "EP 148",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/177262903686016874.jpg"
+    ]
+   }
+  },
+  "149": {
+   "title": "EP 149",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/177262916679416437.jpg"
+    ]
+   }
+  },
+  "150": {
+   "title": "EP 150",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/177262920802116362.png"
+    ]
+   }
+  },
+  "151": {
+   "title": "EP 151",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/177329839294410764.png"
+    ]
+   }
+  },
+  "152": {
+   "title": "EP 152",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/177426116763417548.png"
+    ]
+   }
+  },
+  "153": {
+   "title": "EP 153",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/177458630701715623.jpg"
+    ]
+   }
+  },
+  "154": {
+   "title": "EP 154",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/177674495628218300.png"
+    ]
+   }
+  },
+  "155": {
+   "title": "EP 155",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/177674508564413934.png"
+    ]
+   }
+  },
+  "156": {
+   "title": "EP 156",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/177674512803318986.png"
+    ]
+   }
+  },
+  "157": {
+   "title": "EP 157",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/177700457475216555.png"
+    ]
+   }
+  },
+  "158": {
+   "title": "EP 158",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/177994588891716268.png"
+    ]
+   }
+  },
+  "159": {
+   "title": "EP 159",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/177994597844715380.png"
+    ]
+   }
+  },
+  "160": {
+   "title": "EP 160",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/177994602357810956.png"
+    ]
+   }
+  },
+  "161": {
+   "title": "EP 161",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/177994607254614246.png"
+    ]
+   }
+  },
+  "162": {
+   "title": "EP 162",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/177994610790514060.png"
+    ]
+   }
+  },
+  "163": {
+   "title": "EP 163",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/178123895721118327.jpg"
+    ]
+   }
+  },
+  "164": {
+   "title": "EP 164",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/178123900277411167.jpg"
+    ]
+   }
+  },
+  "165": {
+   "title": "EP 165",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/178185855367916418.jpg"
+    ]
+   }
+  },
+  "166": {
+   "title": "EP 166",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/178296935606517801.jpg"
+    ]
+   }
+  },
+  "167": {
+   "title": "EP 167",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/178296939132516423.png"
+    ]
+   }
+  },
+  "168": {
+   "title": "EP 168",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/178781194322410494.png"
+    ]
+   }
+  },
+  "169": {
+   "title": "EP 169",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/178781199241913116.jpg"
+    ]
+   }
+  },
+  "170": {
+   "title": "EP 170",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/178781203033612572.png"
+    ]
+   }
+  },
+  "171": {
+   "title": "EP 171",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/178781211395917661.jpg"
+    ]
+   }
+  },
+  "172": {
+   "title": "EP 172",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/178781218161814231.jpg"
+    ]
+   }
+  },
+  "173": {
+   "title": "EP 173",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/178781223975612236.jpg"
+    ]
+   }
+  },
+  "174": {
+   "title": "EP 174",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/178781231020612991.jpg"
+    ]
+   }
+  },
+  "175": {
+   "title": "EP 175",
+   "volume": "",
+   "last_updated": "1790336937",
+   "groups": {
+    "JP 公式": [
+     "https://webusstatic.yo-star.com/bluearchive_jp_web/comic/178781235363814341.png"
+    ]
+   }
+  }
+ }
+}
